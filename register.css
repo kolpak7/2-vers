@@ -1,0 +1,24 @@
+.bodi {
+   color: rgb(79, 116, 185)
+}
+p {
+ color: rgb(13, 180, 172)
+    }
+.Prev {
+   color:rgb(0, 0, 0);  font-size: 32px; margin-left: 400px ;
+}
+#floor {
+   color:rgb(3, 7, 7)
+}
+#man {
+   color: rgb(38, 0, 255); 
+}
+#woman {
+   color: rgb(243, 8, 0); 
+}
+.correct {
+   color: rgb(13, 180, 172)
+}
+.bodi {
+   background-image: url(https://pibig.info/uploads/posts/2022-07/1657198732_1-pibig-info-p-fon-dlya-teksta-odnotonnii-1.jpg);  font-size: 28px;
+}
